@@ -2,7 +2,7 @@
 
 The Bearcats are joining the Big 10! That is exciting news but also comes with challenges, e.g. the logistics behind travelling all over the country. Using an adaptation of the traveling salesman problem, I minimize the football team's travel schedule for cost. The team can decide for either the bus or the plane for every path in their schedule. 
 
-![ChartChat1-3](https://www2.isye.gatech.edu/~mgoetsch/cali/VEHICLE/TSP/IMG00001.GIF)
+![ChartChat1-3](https://www2.seas.gwu.edu/~simhaweb/alg/modules/module10/figures/tsp1.gif)
 
 As it turns out, the team only has to to use the plane once when traveling from West Virginia University to the University of Texas at Austin! The total minimum travel cost per person is $1,538. 
 
